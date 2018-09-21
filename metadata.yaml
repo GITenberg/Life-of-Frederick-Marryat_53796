@@ -1,5 +1,5 @@
 _repo: Life-of-Frederick-Marryat_53796
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Anderson, John Parker
@@ -10,6 +10,9 @@ contributor:
     deathdate: 1925
     gutenberg_agent_id: '47537'
     url: http://www.gutenberg.org/2009/agents/47537
+covers:
+- cover_type: archival
+  image_path: 53796-h/images/cover.jpg
 creator:
   author:
     agent_name: Hannay, David
@@ -25,6 +28,8 @@ creator:
     gutenberg_agent_id: '47538'
     url: http://www.gutenberg.org/2009/agents/47538
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53796#Life-of-Frederick-Marryat
 gutenberg_issued: '2016-12-23'
 gutenberg_type: Text
 identifiers:
