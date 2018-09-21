@@ -1,0 +1,45 @@
+_repo: Life-of-Frederick-Marryat_53796
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Anderson, John Parker
+    aliases:
+    - Anderson, J. P. (John Parker)
+    - Anderson, John P. (John Parker)
+    birthdate: 1841
+    deathdate: 1925
+    gutenberg_agent_id: '47537'
+    url: http://www.gutenberg.org/2009/agents/47537
+creator:
+  author:
+    agent_name: Hannay, David
+    birthdate: 1853
+    deathdate: 1934
+    gutenberg_agent_id: '43936'
+    url: http://www.gutenberg.org/2009/agents/43936
+  editor:
+    agent_name: Robertson, Eric S. (Eric Sutherland)
+    aliases:
+    - Robertson, Eric Sutherland
+    - Robertson, E. S. (Eric Sutherland)
+    gutenberg_agent_id: '47538'
+    url: http://www.gutenberg.org/2009/agents/47538
+description: ''
+gutenberg_issued: '2016-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53796'
+  lccn: '12032766'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Adventure stories -- Authorship'
+- !lcsh 'Sea stories -- Authorship'
+- !lcsh 'Marryat, Frederick, 1792-1848'
+- !lcsh 'Novelists, English -- 19th century -- Biography'
+- GITenberg
+title: Life of Frederick Marryat
+url: http://www.gutenberg.org/ebooks/53796
